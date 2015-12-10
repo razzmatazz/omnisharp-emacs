@@ -1,6 +1,6 @@
 (omnisharp :repo "OmniSharp/omnisharp-emacs"
            :fetcher github
-           :branch "master"
+           :branch "hotfix-melpa-build-flycheck"
            :files ("*.el"
                    "src/*.el"
                    "src/actions/*.el"))
